@@ -1,19 +1,17 @@
 baseurl:
-url: https://yzjn6.github.io
-title: 智君小栈
+url: https://666liuchang.github.io
+title: 畅畅
 subtitle: "黎明降至，抬头尽是朝阳。"
-description: "yzjn6's personal page"
+description: "Chang's personal page"
 date_format: "ordinal"
 
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
-author: yzjn6
-organization: NCU
-organization_url: http://www.ncu.edu.cn
-github_username: yzjn6
-location: Nanchang, China
-email: yzj2323@163.com
+author: 666liuchang
+github_username: 666liuchang
+location: China
+email: 1165517598@qq.com
 
 # Navigation
 navs:
@@ -60,7 +58,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: yzjn6/yzjn6.github.io
+repository: 666liuchang\666liuchang.github.io
 
 # Search
 simple_jekyll_search:
