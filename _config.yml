@@ -1,6 +1,6 @@
 baseurl:
 url: https://666liuchang.github.io
-title: 畅畅
+title: 畅畅哥哥
 subtitle: "黎明降至，抬头尽是朝阳。"
 description: "Chang's personal page"
 date_format: "ordinal"
@@ -9,8 +9,10 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 author: 666liuchang
+organization:TYUST
+organization_url:https://www.tyust.edu.cn/
 github_username: 666liuchang
-location: China
+location:  Taiyuan,China
 email: 1165517598@qq.com
 
 # Navigation
